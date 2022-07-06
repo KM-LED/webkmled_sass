@@ -1,0 +1,32 @@
+
+main h1 {
+    font-size: 38px;
+    text-align: center;
+    color:$colorTextProduc;
+    margin: 20px;
+
+}
+
+
+.card {
+    background-color: rgb(0, 0, 0);
+    color: rgb(228, 228, 18);
+    text-align: center;
+
+    h5 {
+        font-size: 22px;
+        margin: 10px;
+    }
+}
+
+
+.card-img-top {
+    height: 300px;
+}
+
+
+.card-body {
+    p {
+        color: aqua;
+    }
+}

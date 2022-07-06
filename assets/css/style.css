@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+main h1 {
+  font-size: 38px;
+  text-align: center;
+  color: #095066;
+  margin: 20px; }
+
+.card {
+  background-color: black;
+  color: #e4e412;
+  text-align: center; }
+  .card h5 {
+    font-size: 22px;
+    margin: 10px; }
+
+.card-img-top {
+  height: 300px; }
+
+.card-body p {
+  color: aqua; }
+
+.maindescargas h1 {
+  color: aqua; }
+
+.maindescargas p {
+  font-size: 30px;
+  color: #ff0037;
+  text-align: center;
+  padding-top: 40px; }
+
+button {
+  border: 0;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background-color: #7281d4; }
+  button:hover {
+    background-color: #0e8891; }
+
+.btn-primary {
+  border-radius: 5px;
+  background-color: #942a6b; }

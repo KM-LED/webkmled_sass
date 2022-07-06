@@ -1,0 +1,16 @@
+button {
+    border: 0;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: rgb(114, 129, 212);
+    &:hover{
+        background-color: $colorHoverProduc
+    }
+}
+
+.btn-primary {
+
+    border-radius: 5px;
+    background-color: rgb(148, 42, 107);
+
+}
