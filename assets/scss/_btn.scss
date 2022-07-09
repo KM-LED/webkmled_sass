@@ -1,16 +1,22 @@
+$btn: (
+    border:0,
+    border-radius:5px,
+    padding: 15px 10px,
+    background: $colorbtn,
+    
+);
+
 button {
-    border: 0;
-    border-radius: 5px;
-    padding: 5px 10px;
-    background-color: rgb(114, 129, 212);
-    &:hover{
-        background-color: $colorHoverProduc
+    border: map-get($btn , border);
+    border-radius: map-get($btn , border-radius);
+    padding: map-get($btn , padding);
+    background-color: map-get($btn ,background);
+    &:hover {
+        background-color:rgb(30, 255, 0);
     }
 }
 
 .btn-primary {
-
     border-radius: 5px;
-    background-color: rgb(148, 42, 107);
-
+    background-color: rgb(221, 31, 126);
 }
