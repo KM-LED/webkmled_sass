@@ -1,7 +1,8 @@
 .maindescargas {
 
     h1 {
-        color: aqua;
+        @include text-principales;
+        
     }
 
     p {

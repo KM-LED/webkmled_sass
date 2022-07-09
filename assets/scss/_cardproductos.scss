@@ -1,6 +1,6 @@
 
 main h1 {
-    font-size: 38px;
+    @include text-principales;
     text-align: center;
     color:$colorTextProduc;
     margin: 20px;

@@ -4,7 +4,10 @@
   box-sizing: border-box; }
 
 main h1 {
-  font-size: 38px;
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: bold;
+  font-color: aqua;
   text-align: center;
   color: #095066;
   margin: 20px; }
@@ -24,7 +27,10 @@ main h1 {
   color: aqua; }
 
 .maindescargas h1 {
-  color: aqua; }
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: bold;
+  font-color: aqua; }
 
 .maindescargas p {
   font-size: 30px;
@@ -32,13 +38,13 @@ main h1 {
   text-align: center;
   padding-top: 40px; }
 
-button {
+button, .btn-primary {
   border: 0;
   border-radius: 5px;
   padding: 15px 10px;
   background-color: #2be6b7; }
-  button:hover {
-    background-color: #1eff00; }
+  button:hover, .btn-primary:hover {
+    background-color: #1266F1; }
 
 .btn-primary {
   border-radius: 5px;
