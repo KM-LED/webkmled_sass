@@ -65,3 +65,9 @@ button, .btn-primary {
 
 .colorfondo {
   background: linear-gradient(to right, #2338f5, #0b0127); }
+
+.social {
+  margin: 20px;
+  margin-right: 5px; }
+
+/* Extra centrado vertical*/
