@@ -49,3 +49,19 @@ button, .btn-primary {
 .btn-primary {
   border-radius: 5px;
   background-color: #dd1f7e; }
+
+.navbar .navbar-nav .nav-link:hover {
+  color: #eee4e8; }
+
+.navbar .navbar-nav .nav-link {
+  color: #15a3e6;
+  font-size: 1.4em; }
+
+.footercolor footer {
+  background-color: #eee4e8; }
+
+.navbar-light {
+  background: linear-gradient(to right, #2338f5, #0b0127); }
+
+.colorfondo {
+  background: linear-gradient(to right, #2338f5, #0b0127); }
