@@ -39,16 +39,37 @@ $colorbtn:rgb(43, 230, 183);
 
 }
 
-.social{
-    margin: 20px;
-    margin-right: 5px;
+
+
+
+
+
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
 }
 
 
+/* Set a specific color for each brand */
 
+/* Facebook */
+.fa-facebook {
+    
+    color: white;
+}
 
+/* Twitter */
+.fa-instagram{
+    
+    color: white;
+}
 
-
-
-/* Extra centrado vertical*/
+.fa-whatsapp{
+    
+    color: white;
+}
 

@@ -66,8 +66,21 @@ button, .btn-primary {
 .colorfondo {
   background: linear-gradient(to right, #2338f5, #0b0127); }
 
-.social {
-  margin: 20px;
-  margin-right: 5px; }
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none; }
 
-/* Extra centrado vertical*/
+/* Set a specific color for each brand */
+/* Facebook */
+.fa-facebook {
+  color: white; }
+
+/* Twitter */
+.fa-instagram {
+  color: white; }
+
+.fa-whatsapp {
+  color: white; }
