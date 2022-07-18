@@ -44,21 +44,21 @@ button, .btn-primary {
   padding: 15px 10px;
   background-color: #3a8b77; }
   button:hover, .btn-primary:hover {
-    background-color: #3f08bd; }
+    background-color: #070775; }
 
 .btn-primary {
   border-radius: 5px;
   background-color: #dd1f7e; }
 
-.navbar .navbar-nav .nav-link:hover {
-  color: #eee4e8; }
-
 .navbar .navbar-nav .nav-link {
-  color: #15a3e6;
+  color: #cee4d3;
   font-size: 1.4em; }
 
+.navbar .navbar-nav .nav-link:hover {
+  color: #e70e65; }
+
 .footercolor footer {
-  background-color: #eee4e8; }
+  background-color: #e4eee8; }
 
 .navbar-light {
   background: linear-gradient(to right, #2338f5, #0b0127); }
@@ -73,14 +73,14 @@ button, .btn-primary {
   text-align: center;
   text-decoration: none; }
 
-/* Set a specific color for each brand */
-/* Facebook */
 .fa-facebook {
   color: white; }
 
-/* Twitter */
 .fa-instagram {
   color: white; }
 
 .fa-whatsapp {
   color: white; }
+
+.redescontacto {
+  padding-right: 21px; }
